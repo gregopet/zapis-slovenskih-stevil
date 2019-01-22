@@ -508,7 +508,7 @@
       "orodnik" : { "vsi" : "z dvema milijonoma" }
     },
     { "število": 3000000,
-      "imenovalnik": { "vsi" : "tri milijone" },
+      "imenovalnik": { "vsi" : "trije milijoni" },
       "rodilnik" : { "vsi" : "treh milijonov" },
       "dajalnik" : { "vsi" : "trem milijonom" },
       "tožilnik" : { "vsi" : "tri milijone" },
@@ -532,7 +532,7 @@
       "orodnik" : { "vsi" : "z dvesto dvema milijonoma" }
     },
     { "število": 303000000,
-      "imenovalnik": { "vsi" : "tristo tri milijone" },
+      "imenovalnik": { "vsi" : "tristo trije milijoni" },
       "rodilnik" : { "vsi" : "tristo treh milijonov" },
       "dajalnik" : { "vsi" : "tristo trem milijonom" },
       "tožilnik" : { "vsi" : "tristo tri milijone" },
@@ -540,7 +540,7 @@
       "orodnik" : { "vsi" : "s tristo tremi milijoni" }
     },
     { "število": 304000000,
-      "imenovalnik": { "vsi" : "tristo štiri milijone" },
+      "imenovalnik": { "vsi" : "tristo štirje milijoni" },
       "rodilnik" : { "vsi" : "tristo štirih milijonov" },
       "dajalnik" : { "vsi" : "tristo štirim milijonom" },
       "tožilnik" : { "vsi" : "tristo štiri milijone" },

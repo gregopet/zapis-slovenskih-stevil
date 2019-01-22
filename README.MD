@@ -31,3 +31,10 @@ to anyone who has a basic knowledge of Slovene grammar with one exception that
 was used to make writing and editing this document easier: where the examples
 for all genders would be equal, the key "vsi" (all) is used instead of listing
 the "ž", "m" and "s" individually.
+
+
+# Zahvala
+
+Za popravke in predloge se zahvaljujem:
+
+Štefan Baebler
