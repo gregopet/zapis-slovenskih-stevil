@@ -298,7 +298,7 @@
       "orodnik" : { "vsi" : "s stotimi" }
     },
     { "število": 101,
-      "imenovalnik": { "ž": "stovena", "m" : "sto en", "s" : "sto eno" },
+      "imenovalnik": { "ž": "sto ena", "m" : "sto en", "s" : "sto eno" },
       "rodilnik" : { "ž": "sto ene", "m" : "sto enega", "s" : "sto enega" },
       "dajalnik" : { "ž": "sto eni", "m" : "sto enemu", "s" : "sto enemu" },
       "tožilnik" : { "ž": "sto eno", "m" : "sto enega", "s" : "sto eno" },
@@ -322,12 +322,12 @@
       "orodnik" : { "vsi": "s stotremi" }
     },
     { "število": 104,
-      "imenovalnik": { "ž": "stoštiri", "m" : "stoštirje", "s" : "stoštiri" },
-      "rodilnik" : { "vsi" : "stoštirih" },
-      "dajalnik" : { "vsi" : "stoštirim" },
-      "tožilnik" : { "vsi" : "stoštiri" },
-      "mestnik" : { "vsi" : "stoštirih" },
-      "orodnik" : { "vsi" : "s stoštirimi" }
+      "imenovalnik": { "ž": "sto štiri", "m" : "sto štirje", "s" : "sto štiri" },
+      "rodilnik" : { "vsi" : "sto štirih" },
+      "dajalnik" : { "vsi" : "sto štirim" },
+      "tožilnik" : { "vsi" : "sto štiri" },
+      "mestnik" : { "vsi" : "sto štirih" },
+      "orodnik" : { "vsi" : "s sto štirimi" }
     },
 
     { "število": 105,
