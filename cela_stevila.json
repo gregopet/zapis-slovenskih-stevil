@@ -10,7 +10,7 @@
     { "število": 2,
       "imenovalnik": { "ž": "dve", "m" : "dva", "s" : "dve" },
       "rodilnik" : { "ž": "dveh", "m" : "dveh", "s" : "dveh" },
-      "dajalnik" : { "ž": "dvem", "m" : "dvem", "s" : "dvem" },
+      "dajalnik" : { "ž": "dvema", "m" : "dvema", "s" : "dvema" },
       "tožilnik" : { "ž": "dve", "m" : "dva", "s" : "dve" },
       "mestnik" : { "ž": "dveh", "m" : "dveh", "s" : "dveh" },
       "orodnik" : { "ž": "z dvema", "m" : "z dvema", "s" : "z dvema" }
