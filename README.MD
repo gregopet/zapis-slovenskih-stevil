@@ -10,9 +10,10 @@ primere, lahko z veliko gotovostjo rekli, da zna v slovenščini pravilno zapisa
 katerokoli število.
 
 Vsem implementacijam seveda ni potrebno znati vseh možnih spolov in sklanjatev,
-zato lahko vam odvečne podatke mirno ignorirate. Podatki v datoteki so zapisani
-preprosto in očitno, edina posebnost, na katero mora paziti programer je, da je
-zaradi enostavnejšega pregledovanja in urejanja pri nekaterih številih namesto
+zato lahko vam odvečne podatke mirno ignorirate. Razen tega, da so JSON ključi
+napisani brez šumnikov, so podatki v datoteki zapisani preprosto in očitno.
+Edina posebnost, na katero mora paziti programer je, da je zaradi 
+enostavnejšega pregledovanja in urejanja pri nekaterih številih namesto
 naštevanja vsakega spola posebej uporabljen nadpomenski ključ "vsi".
 
 
@@ -26,11 +27,12 @@ correctly pass all these test cases should probably be able to write
 practically any number in Slovene.
 
 All implementations do not require to handle every grammatical case and gender
-of course so feel free to skip those. The data should be structured obviously
-to anyone who has a basic knowledge of Slovene grammar with one exception that
-was used to make writing and editing this document easier: where the examples
-for all genders would be equal, the key "vsi" (all) is used instead of listing
-the "ž", "m" and "s" individually.
+of course so feel free to skip those. Besides not using letters with carons in 
+JSON keys, the data should be structured obviously to anyone who has a basic
+knowledge of Slovene grammar with one exception that was used to make writing
+and editing this document easier: where the examples for all genders would be
+equal, the key "vsi" (all) is used instead of listing the "z", "m" and "s" 
+individually.
 
 
 # Zahvala
