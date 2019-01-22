@@ -319,7 +319,7 @@
       "dajalnik" : { "vsi": "sto trem" },
       "tožilnik" : { "vsi": "sto tri" },
       "mestnik" : { "vsi" : "sto treh" },
-      "orodnik" : { "vsi": "s stotremi" }
+      "orodnik" : { "vsi": "s sto tremi" }
     },
     { "število": 104,
       "imenovalnik": { "ž": "sto štiri", "m" : "sto štirje", "s" : "sto štiri" },
