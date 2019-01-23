@@ -39,4 +39,4 @@ individually.
 
 Za popravke in predloge se zahvaljujem:
 
-Štefan Baebler
+Štefan Baebler, Marina Valenčič
