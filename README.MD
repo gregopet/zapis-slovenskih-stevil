@@ -39,4 +39,5 @@ individually.
 
 Za popravke in predloge se zahvaljujem:
 
-Štefan Baebler, Marina Valenčič, Gregor Anželj
+Štefan Baebler, Marina Valenčič, Gregor Anželj, Peter Holozan, Teja Cetinski,
+Žiga Hajduković
