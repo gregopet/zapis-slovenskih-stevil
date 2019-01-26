@@ -491,6 +491,22 @@
       "mestnik" : { "vsi" : "dvajset tisočih" },
       "orodnik" : { "vsi" : "z dvajset tisoč" }
     },
+    { "stevilo": 100000,
+      "imenovalnik": { "vsi" : "sto tisoč" },
+      "rodilnik" : { "vsi" : "sto tisočih" },
+      "dajalnik" : { "vsi" : "sto tisočim" },
+      "tozilnik" : { "vsi" : "sto tisoč" },
+      "mestnik" : { "vsi" : "sto tisočih" },
+      "orodnik" : { "vsi" : "s sto tisoč" }
+    },
+    { "stevilo": 101000,
+      "imenovalnik": { "vsi" : "sto en tisoč" },
+      "rodilnik" : { "vsi" : "sto en tisočih" },
+      "dajalnik" : { "vsi" : "sto en tisočim" },
+      "tozilnik" : { "vsi" : "sto en tisoč" },
+      "mestnik" : { "vsi" : "sto en tisočih" },
+      "orodnik" : { "vsi" : "s sto en tisoč" }
+    },
     { "stevilo": 200000,
       "imenovalnik": { "vsi" : "dvesto tisoč" },
       "rodilnik" : { "vsi" : "dvesto tisočih" },
