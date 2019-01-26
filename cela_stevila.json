@@ -316,7 +316,7 @@
     { "stevilo": 102,
       "imenovalnik": { "z": "sto dve", "m" : "sto dva", "s" : "sto dve" },
       "rodilnik" : { "z": "sto dveh", "m" : "sto dveh", "s" : "sto dveh" },
-      "dajalnik" : { "z": "sto dvema", "m" : "sto dvem", "s" : "sto dvem" },
+      "dajalnik" : { "z": "sto dvema", "m" : "sto dvema", "s" : "sto dvema" },
       "tozilnik" : { "z": "sto dve", "m" : "sto dva", "s" : "sto dve" },
       "mestnik" : { "z": "sto dveh", "m" : "sto dveh", "s" : "sto dveh" },
       "orodnik" : { "z": "s sto dvema", "m" : "s sto dvema", "s" : "s sto dvema" }
