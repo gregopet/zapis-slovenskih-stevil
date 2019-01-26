@@ -437,7 +437,7 @@
     { "stevilo": 1002,
       "imenovalnik": { "z": "tisoč dve", "m" : "tisoč dva", "s" : "tisoč dve" },
       "rodilnik" : { "z": "tisoč dveh", "m" : "tisoč dveh", "s" : "tisoč dveh" },
-      "dajalnik" : { "z": "tisoč dvem", "m" : "tisoč dvem", "s" : "tisoč dvem" },
+      "dajalnik" : { "z": "tisoč dvema", "m" : "tisoč dvema", "s" : "tisoč dvema" },
       "tozilnik" : { "z": "tisoč dve", "m" : "tisoč dva", "s" : "tisoč dve" },
       "mestnik" : { "z": "tisoč dveh", "m" : "tisoč dveh", "s" : "tisoč dveh" },
       "orodnik" : { "z": "s tisoč dvema", "m" : "s tisoč dvema", "s" : "s tisoč dvema" }
