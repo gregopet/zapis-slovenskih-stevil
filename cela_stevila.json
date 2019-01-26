@@ -574,8 +574,8 @@
     { "stevilo": 1121,
       "imenovalnik": { "vsi" : "tisoč sto enaindvajset" },
       "rodilnik" : { "vsi" : "tisoč sto enaindvajsetih" },
-      "dajalnik" : { "vsi" : "tisoč sto enaidvajsetim" },
-      "tozilnik" : { "vsi" : "tisoč sto enaidvajset" },
+      "dajalnik" : { "vsi" : "tisoč sto enaindvajsetim" },
+      "tozilnik" : { "vsi" : "tisoč sto enaindvajset" },
       "mestnik" : { "vsi" : "tisoč sto enaindvajsetih" },
       "orodnik" : { "vsi" : "s tisoč sto enaindvajsetimi" }
     },
