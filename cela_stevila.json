@@ -566,7 +566,7 @@
     { "stevilo": 2000000000,
       "imenovalnik": { "vsi" : "dve milijardi" },
       "rodilnik" : { "vsi" : "dveh milijard" },
-      "dajalnik" : { "vsi" : "dvem milijardam" },
+      "dajalnik" : { "vsi" : "dvema milijardama" },
       "tozilnik" : { "vsi" : "dve milijardi" },
       "mestnik" : { "vsi" : "dveh milijardah" },
       "orodnik" : { "vsi" : "z dvema milijardama" }
