@@ -1,4 +1,12 @@
 [
+    { "stevilo": 0,
+      "imenovalnik": { "vsi" : "nič" },
+      "rodilnik" : { "vsi" : "nič" },
+      "dajalnik" : { "vsi" : "nič" },
+      "tozilnik" : { "vsi" : "nič" },
+      "mestnik" : { "vsi" : "nič" },
+      "orodnik" : { "vsi" : "z nič" }
+    },    
     { "stevilo": 1,
       "imenovalnik": { "z": "ena", "m" : "en", "s" : "eno" },
       "rodilnik" : { "z": "ene", "m" : "enega", "s" : "enega" },
