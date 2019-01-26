@@ -609,7 +609,7 @@
       "dajalnik" : { "vsi" : "dvesto en milijon tisoč štirim" },
       "tozilnik" : { "vsi" : "dvesto en milijon tisoč štiri" },
       "mestnik" : { "vsi" : "dvesto en milijon tisoč štirih" },
-      "orodnik" : { "vsi" : "z dvesto en milijon tisoč štirimi" }
+      "orodnik" : { "vsi" : "z dvesto enim milijonom tisoč štirimi" }
     },
     { "stevilo": 1803603801,
       "imenovalnik": { "z" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto ena", "m" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto en", "s" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto eno" },
