@@ -588,7 +588,7 @@
       "orodnik" : { "z" : "z dva tisoč štiristo eno", "m" : "z dva tisoč štiristo enim", "s" : "z dva tisoč štiristo enim" }
     },
     { "stevilo": 201001004,
-      "imenovalnik": { "vsi" : "dvesto en milijon tisoč štiri" },
+      "imenovalnik": { "z" : "dvesto en milijon tisoč štiri", "m" : "dvesto en milijon tisoč štirje", "s" : "dvesto en milijon tisoč štiri" },
       "rodilnik" : { "vsi" : "dvesto en milijon tisoč štirih" },
       "dajalnik" : { "vsi" : "dvesto en milijon tisoč štirim" },
       "tozilnik" : { "vsi" : "dvesto en milijon tisoč štiri" },
