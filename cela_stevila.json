@@ -544,7 +544,7 @@
       "rodilnik" : { "vsi" : "sto enega milijona" },
       "dajalnik" : { "vsi" : "sto enemu milijonu" },
       "tozilnik" : { "vsi" : "sto en milijon" },
-      "mestnik" : { "vsi" : "sto enemu milijonu" },
+      "mestnik" : { "vsi" : "sto enem milijonu" },
       "orodnik" : { "vsi" : "s sto enim milijonom" }
     },
     { "stevilo": 202000000,
