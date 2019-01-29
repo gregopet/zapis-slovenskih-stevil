@@ -26,13 +26,13 @@ is widely supported in various programming languages. A program that can
 correctly pass all these test cases should probably be able to write 
 practically any number in Slovene.
 
-All implementations do not require to handle every grammatical case and gender
-of course so feel free to skip those. Besides not using letters with carons in 
-JSON keys, the data should be structured obviously to anyone who has a basic
-knowledge of Slovene grammar with one exception that was used to make writing
-and editing this document easier: where the examples for all genders would be
-equal, the key "vsi" (all) is used instead of listing the "z", "m" and "s" 
-individually.
+Every implementation doesn't need to handle all grammatical cases and genders
+of course so feel free to skip what you don't need. Besides not using letters
+with carons in JSON keys, the data should be structured obviously to anyone who
+has a basic knowledge of Slovene grammar with one exception that was used to
+make writing and editing this document easier: where the examples for all 
+genders would be equal, the key "vsi" (all) is used instead of listing the "z",
+"m" and "s" individually.
 
 
 # Zahvala
