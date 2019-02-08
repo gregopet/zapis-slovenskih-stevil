@@ -40,4 +40,4 @@ genders would be equal, the key "vsi" (all) is used instead of listing the "z",
 Za popravke in predloge se zahvaljujem:
 
 Štefan Baebler, Marina Valenčič, Gregor Anželj, Peter Holozan, Teja Cetinski,
-Žiga Hajduković
+Žiga Hajduković, Žiga Šebenik

@@ -612,11 +612,11 @@
       "orodnik" : { "vsi" : "z dvesto enim milijonom tisoč štirimi" }
     },
     { "stevilo": 1803603801,
-      "imenovalnik": { "z" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto ena", "m" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto en", "s" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto eno" },
-      "rodilnik" : { "z" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto ene", "m" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto enega", "s" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto enega" },
-      "dajalnik" : { "z" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto eni", "m" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto enemu", "s" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto enemu" },
-      "tozilnik" : { "z" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto eno", "m" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto enega", "s" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto eno" },
-      "mestnik" : { "z" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto eni", "m" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto enem", "s" : "milijarda osemsto trije milijoni šeststo tri tisoč osemsto enem" },
-      "orodnik" : { "z" : "z milijardo osemsto tremi milijoni šeststo tri tisoč osemsto eno", "m" : "z milijardo osemsto tremi milijoni šeststo tri tisoč osemsto enim", "s" : "z milijardo osemsto tremi milijoni šeststo tri tisoč osemsto enim" }
+      "imenovalnik": { "z" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto ena", "m" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto en", "s" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto eno" },
+      "rodilnik" : { "z" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto ene", "m" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto enega", "s" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto enega" },
+      "dajalnik" : { "z" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto eni", "m" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto enemu", "s" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto enemu" },
+      "tozilnik" : { "z" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto eno", "m" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto enega", "s" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto eno" },
+      "mestnik" : { "z" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto eni", "m" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto enem", "s" : "milijarda osemsto tri milijone šeststo tri tisoč osemsto enem" },
+      "orodnik" : { "z" : "z milijarda osemsto tri milijone šeststo tri tisoč osemsto eno", "m" : "z milijarda osemsto tri milijone šeststo tri tisoč osemsto enim", "s" : "z milijarda osemsto tri milijone šeststo tri tisoč osemsto enim" }
     }
 ]
